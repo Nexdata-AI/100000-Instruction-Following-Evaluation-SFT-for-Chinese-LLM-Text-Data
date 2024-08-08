@@ -2,7 +2,7 @@
 
 ## Description
 100,000 Instruction-Following Evaluation SFT for Chinese LLM Text Data. Between 50 and 400 words, with no fewer than 3 constraints in each prompt.All prompt are manually written to satisfy the diversity of coverage.
-For more details, please refer to the link: https://www.nexdata.ai/datasets/1456?source=Github
+For more details, please refer to the link:https://www.nexdata.ai/datasets/llm/1456?source=Github
 
 
 ## Quantity of Data
